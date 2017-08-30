@@ -1,0 +1,152 @@
+
+ui_menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 223
+  size: 1280, 768
+  orig: 1280, 768
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 1283, 825
+  size: 461, 166
+  orig: 461, 166
+  offset: 0, 0
+  index: -1
+sl_bg
+  rotate: false
+  xy: 1746, 391
+  size: 94, 600
+  orig: 94, 600
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 1283, 169
+  size: 200, 220
+  orig: 200, 220
+  offset: 0, 0
+  index: -1
+button_p
+  rotate: false
+  xy: 1485, 223
+  size: 461, 166
+  orig: 461, 166
+  offset: 0, 0
+  index: -1
+en
+  rotate: false
+  xy: 1283, 623
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+g1p
+  rotate: false
+  xy: 1283, 401
+  size: 200, 220
+  orig: 200, 220
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 1485, 401
+  size: 200, 220
+  orig: 200, 220
+  offset: 0, 0
+  index: -1
+g2p
+  rotate: false
+  xy: 1485, 1
+  size: 200, 220
+  orig: 200, 220
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 1687, 1
+  size: 200, 220
+  orig: 200, 220
+  offset: 0, 0
+  index: -1
+g3p
+  rotate: false
+  xy: 1842, 771
+  size: 200, 220
+  orig: 200, 220
+  offset: 0, 0
+  index: -1
+g4
+  rotate: false
+  xy: 1842, 549
+  size: 200, 220
+  orig: 200, 220
+  offset: 0, 0
+  index: -1
+g4p
+  rotate: false
+  xy: 1, 1
+  size: 200, 220
+  orig: 200, 220
+  offset: 0, 0
+  index: -1
+g5
+  rotate: false
+  xy: 203, 1
+  size: 200, 220
+  orig: 200, 220
+  offset: 0, 0
+  index: -1
+g5p
+  rotate: false
+  xy: 405, 1
+  size: 200, 220
+  orig: 200, 220
+  offset: 0, 0
+  index: -1
+ru
+  rotate: false
+  xy: 607, 21
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+sl_knb
+  rotate: false
+  xy: 1842, 467
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+effect_on
+  rotate: false
+  xy: 1944, 448
+  size: 75, 99
+  orig: 75, 99
+  offset: 0, 0
+  index: -1
+sound_on
+  rotate: false
+  xy: 1585, 724
+  size: 75, 99
+  orig: 75, 99
+  offset: 0, 0
+  index: -1
+levl
+  rotate: false
+  xy: 909, 55
+  size: 165, 166
+  orig: 165, 166
+  offset: 0, 0
+  index: -1
+levl_p
+  rotate: false
+  xy: 1076, 55
+  size: 165, 166
+  orig: 165, 166
+  offset: 0, 0
+  index: -1

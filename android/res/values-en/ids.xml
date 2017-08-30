@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">554856023920</string>
+  <string name="package_name">com.qvardium.game.project.arwii.one.android</string>
+  <string name="achievement_10_lungs">CgkI8I78_5IQEAIQBA</string>
+  <string name="achievement_20_lungs">CgkI8I78_5IQEAIQBQ</string>
+  <string name="achievement_30_lungs">CgkI8I78_5IQEAIQBg</string>
+  <string name="achievement_40_lungs">CgkI8I78_5IQEAIQBw</string>
+  <string name="achievement_49_lungs">CgkI8I78_5IQEAIQCA</string>
+  <string name="achievement_10_normal">CgkI8I78_5IQEAIQCQ</string>
+  <string name="achievement_20_normal">CgkI8I78_5IQEAIQCg</string>
+  <string name="achievement_30_normal">CgkI8I78_5IQEAIQCw</string>
+  <string name="achievement_40_normal">CgkI8I78_5IQEAIQDA</string>
+  <string name="achievement_49_normal">CgkI8I78_5IQEAIQDQ</string>
+  <string name="achievement_10_difficult">CgkI8I78_5IQEAIQDg</string>
+  <string name="achievement_20_difficult">CgkI8I78_5IQEAIQDw</string>
+  <string name="achievement_30_difficult">CgkI8I78_5IQEAIQEA</string>
+  <string name="achievement_40_difficult">CgkI8I78_5IQEAIQEQ</string>
+  <string name="achievement_49_difficult">CgkI8I78_5IQEAIQEg</string>
+  <string name="leaderboard_easy">CgkI8I78_5IQEAIQAQ</string>
+  <string name="leaderboard_medium">CgkI8I78_5IQEAIQAg</string>
+  <string name="leaderboard_hard">CgkI8I78_5IQEAIQAw</string>
+</resources>

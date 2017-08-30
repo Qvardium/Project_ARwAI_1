@@ -1,0 +1,166 @@
+
+ui_radar.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+main_radar
+  rotate: false
+  xy: 1, 1055
+  size: 1280, 768
+  orig: 1280, 768
+  offset: 0, 0
+  index: -1
+main_bg
+  rotate: false
+  xy: 1, 385
+  size: 855, 668
+  orig: 855, 668
+  offset: 0, 0
+  index: -1
+slider_s
+  rotate: false
+  xy: 1283, 1223
+  size: 67, 600
+  orig: 67, 600
+  offset: 0, 0
+  index: -1
+r_exit
+  rotate: false
+  xy: 1, 250
+  size: 295, 133
+  orig: 295, 133
+  offset: 0, 0
+  index: -1
+r_exit_p
+  rotate: false
+  xy: 858, 920
+  size: 295, 133
+  orig: 295, 133
+  offset: 0, 0
+  index: -1
+r_menu
+  rotate: false
+  xy: 1352, 1690
+  size: 295, 133
+  orig: 295, 133
+  offset: 0, 0
+  index: -1
+r_menu_p
+  rotate: false
+  xy: 1, 115
+  size: 295, 133
+  orig: 295, 133
+  offset: 0, 0
+  index: -1
+r_mess
+  rotate: false
+  xy: 298, 250
+  size: 295, 133
+  orig: 295, 133
+  offset: 0, 0
+  index: -1
+r_mess_p
+  rotate: false
+  xy: 858, 785
+  size: 295, 133
+  orig: 295, 133
+  offset: 0, 0
+  index: -1
+r_rad
+  rotate: false
+  xy: 1352, 1555
+  size: 295, 133
+  orig: 295, 133
+  offset: 0, 0
+  index: -1
+r_rad_p
+  rotate: false
+  xy: 1649, 1690
+  size: 295, 133
+  orig: 295, 133
+  offset: 0, 0
+  index: -1
+effect_on
+  rotate: false
+  xy: 1155, 953
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mmenu
+  rotate: false
+  xy: 1, 13
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mmenu_p
+  rotate: false
+  xy: 298, 148
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+reset
+  rotate: false
+  xy: 595, 283
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+reset_p
+  rotate: false
+  xy: 858, 683
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sound_on
+  rotate: false
+  xy: 1352, 1453
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+slider_p
+  rotate: false
+  xy: 1649, 1638
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 1283, 1211
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+wall_f
+  rotate: false
+  xy: 1946, 1813
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+wall_p
+  rotate: false
+  xy: 1155, 941
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+wall_s
+  rotate: false
+  xy: 1257, 1043
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+wall_z
+  rotate: false
+  xy: 1, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

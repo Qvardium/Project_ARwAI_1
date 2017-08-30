@@ -1,0 +1,152 @@
+
+ui_game.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+touch_tabel
+  rotate: false
+  xy: 1, 203
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+radar_a
+  rotate: false
+  xy: 1, 1
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+r_ram
+  rotate: false
+  xy: 303, 303
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+level_bar
+  rotate: false
+  xy: 605, 443
+  size: 360, 60
+  orig: 360, 60
+  offset: 0, 0
+  index: -1
+level
+  rotate: false
+  xy: 303, 251
+  size: 300, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+action
+  rotate: false
+  xy: 605, 341
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+action_pres
+  rotate: false
+  xy: 303, 149
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 707, 341
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jump_pres
+  rotate: false
+  xy: 303, 47
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+select_cam_rob
+  rotate: false
+  xy: 405, 149
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+select_cam_rob_pres
+  rotate: false
+  xy: 809, 341
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+touch_tabel_knob
+  rotate: false
+  xy: 405, 47
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+zoom_btn_in
+  rotate: false
+  xy: 507, 149
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+zoom_btn_in_press
+  rotate: false
+  xy: 507, 47
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+zoom_btn_out
+  rotate: false
+  xy: 911, 341
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+zoom_btn_out_press
+  rotate: false
+  xy: 609, 239
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 303, 35
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+wall_f
+  rotate: false
+  xy: 967, 493
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+wall_s
+  rotate: false
+  xy: 1013, 493
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+wall_z
+  rotate: false
+  xy: 609, 227
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+where
+  rotate: false
+  xy: 711, 329
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
